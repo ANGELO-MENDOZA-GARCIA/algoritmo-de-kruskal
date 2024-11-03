@@ -1,0 +1,11 @@
+Weight,Source,Destination
+3,a,b
+5,a,f
+6,a,e
+1,b,c
+4,b,f
+6,c,d
+4,c,f
+8,d,e
+5,d,f
+2,e,f
