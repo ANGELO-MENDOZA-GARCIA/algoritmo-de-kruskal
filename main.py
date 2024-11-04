@@ -1,6 +1,8 @@
 # Angelo Mendoza García - 230300813
 # Fecha: 3-11-2024
 
+# Fuente Artículo https://www.researchgate.net/publication/320714849_Research_and_Improvement_of_Kruskal_Algorithm
+
 # Importamos la librería pandas para manejar el archivo CSV
 import pandas as pd
 
